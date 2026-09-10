@@ -55,7 +55,7 @@
   * Declare the style when the mouse is hovered over a list item
   */
   
-  li :hover {
+  li:hover {
     /* Change the font colour to black */
     color: black;
     
